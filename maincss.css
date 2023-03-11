@@ -1,0 +1,488 @@
+.banner img
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 77px;
+    top: 0px;
+}
+.banner
+{   
+    position: absolute;
+    width: 1536px;
+    height: 150px;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    background: #3A2313;
+    border: 1px solid black;
+}
+
+.headlink
+{   
+    margin-left: 670px;
+}
+.headlink a
+{   
+    margin-right: 80px;
+    text-decoration: none;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.headlink img
+{ border: 1px solid #ffffff;
+    width: 550px;
+    height: 0px;
+    left: 500px;
+    top: 101px;
+}
+
+.loginlink
+{   margin-top: 45px;
+    margin-left: 1300px;
+    list-style-type: none;
+    
+}
+.loginlink a
+{
+    text-decoration: none;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.loginlink img
+{
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    left: 1230px;
+    top: 30px;
+}
+
+.access form
+{
+    display: block;
+    min-height: 100%; /* real browsers */
+    height: 100%;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.access 
+{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 525px;
+    top: 280px;
+    background: rgba(249, 248, 113, 0.56);
+    border-radius: 10px;
+}
+.access a
+{
+    text-decoration: none;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #3A2313;
+}
+
+
+.login
+{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 525px;
+    top: 280px;
+    background: rgba(249, 248, 113, 0.56);
+    border-radius: 10px;
+}
+.login p
+{   
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+    color: #3A2313;
+    
+}
+.login img
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 175px;   
+}
+.login form
+{   
+    display: block;
+    min-height: 100%; /* real browsers */
+    height: 100%; 
+    margin-top: 160px;
+    margin-left: 50px;
+}
+.login input
+{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #3A2313;
+    width: 402px;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+}
+.login a
+{
+    text-decoration: none;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #654524;
+    margin-left: 30%;
+}
+
+.register
+{
+    position: absolute;
+    width: 500px;
+    height: 700px;
+    left: 525px;
+    top: 280px;
+    background: rgba(249, 248, 113, 0.56);
+    border-radius: 10px;
+}
+.register p
+{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+    color: #3A2313;
+}
+.register img
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 175px; 
+}
+.register form
+{
+    display: block;
+    min-height: 100%; /* real browsers */
+    height: 100%;
+    margin-top: 160px;
+    margin-left: 50px;
+}
+.register input
+{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #3A2313;
+    width: 402px;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+}
+.register select
+{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #3A2313;
+    width: 150px;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+}
+
+.add 
+{
+    position: absolute;
+    width: 500px;
+    height: 550px;
+    left: 525px;
+    top: 280px;
+    background: rgba(249, 248, 113, 0.56);
+    border-radius: 10px;
+}
+.add p
+{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #3A2313;
+}
+.add form
+{
+    display: block;
+    min-height: 100%; /* real browsers */
+    height: 100%;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.add input
+{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #3A2313;
+    width: 402px;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+}
+
+.button input
+{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #ffffff;
+    background: #8F6B34;
+    border-radius: 10px;
+    border: none;
+    margin-left: 75px;
+    width: 100px;
+    height: 35px;
+}
+
+
+.footer p
+{
+    color:#ffffff;
+    text-align:center;
+    font-weight:bold;
+    font-size:12px;
+    font-style:italic;
+    text-transform:uppercase;
+    background-color: #3A2313;
+    position:fixed;
+    bottom:0px;
+    left: 0px;
+    width: 1536px;
+    height: 20px;
+    margin: 0;
+}
+
+.content form
+{
+    display: block;
+    min-height: 100%; /* real browsers */
+    height: 100%;
+}
+.content h1
+{
+    color: #3A2313;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+
+  .column {
+    padding: 20px 0px 20px 20px;
+    float: left;
+    width: 25%;
+    height: auto;
+
+  }
+  
+
+  .row {margin: 0 -5px;}
+  
+ 
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+  }
+
+  .card img {
+    width: 250px ;
+    float:inline-end;
+    opacity: 1;
+    display: block;
+    height: auto;
+  }
+
+.table_content form
+{
+    display: block;
+    min-height: 100%; /* real browsers */
+    height: 100%;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.table_content
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 5%;
+    top: 280px;
+    background: rgba(249, 248, 113, 0.56);
+    border-radius: 10px;
+}
+.table_content th
+{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+    color: #3A2313;
+}
+.invoice form
+{
+    display: block;
+    min-height: 100%; /* real browsers */
+    height: 100%;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.invoice p
+{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #3A2313;
+}
+.invoice
+{
+    position: absolute;
+    width: 500px;
+    height: 600px;
+    left: 525px;
+    top: 280px;
+    background: rgba(249, 248, 113, 0.56);
+    border-radius: 10px;
+}
+.invoice label
+{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+    color: #3A2313;
+}
+.invoice textarea
+{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    color: #3A2313;
+    width: 402px;
+    height: 100px;
+    border-radius: 10px;
+    border: none;
+}
+#pick
+{
+   accent-color: #3A2313;
+}
+#kexp
+{
+    accent-color: #3A2313;
+}
+#ems
+{
+    accent-color: #3A2313;
+}
+
+.dropbtn {
+    background-color: #3498DB;
+    color: white;
+    padding: 16px;
+    font-size: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .dropbtn:hover, .dropbtn:focus {
+    background-color: #2980B9;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-size: 15px;
+  }
+  
+  .dropdown a:hover {background-color: #ddd;}
+  
+  .show {display: block;}
+
+  .info-sess {
+    color:whitesmoke;
+    padding: 5px 5px 5px 5px ;
+    border-left: 3px solid gray;
+  }
+
+  
